@@ -67084,7 +67084,7 @@ return s},
 $S:143}
 A.HR.prototype={
 G(a,b){var s=A.ajl(null,B.tA)
-return new A.xh(A.ar(["/",new A.a0Z(),"/main",new A.a1_(),"/menu",new A.a10(),"/multiplication",new A.a11(),"/history",new A.a12()],t.N,t.Ab),"/","Multiplication_table",s,null)}}
+return new A.xh(A.ar(["/",new A.a0Z(),"/main",new A.a1_(),"/menu",new A.a10(),"/multiplication",new A.a11(),"/history",new A.a12()],t.N,t.Ab),"/","PlusMinus_table",s,null)}}
 A.a0Z.prototype={
 $1(a){var s=null,r=A.Zn("assets/images/multiplication_loading.gif",B.e2,s,s)
 return new A.mq(B.Lx,B.NG,new A.a0Y(),s,B.eH,s,B.wq,!0,!1,r,2500,B.BK,s,400,s)},
