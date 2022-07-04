@@ -69047,7 +69047,7 @@ try{s=t.rI.a(A.j9(b,t.X).b.b)
 r=A.bo(s.a+" \ud559\uc0dd \ud658\uc601\ud569\ub2c8\ub2e4.",o,o,o,o,o,o)
 r=A.vB(A.nE(o,B.CM,o,new A.a1f(b),o),r)
 q=A.bI(B.dO,A.Zv(A.a_g("assets/images/kids.png",B.fS,150,o),"imageHero"),B.dZ,o,o,150,o,o,1/0)
-r=A.ir(r,o,A.bI(o,n.b>=590?A.c1(A.a([A.bo("< \ubb38\uc81c \uc218 : "+B.f.i(30)+" \uac1c >",o,o,o,B.wc,o,o),B.bj,A.dy(B.SQ,o,new A.a1g(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,o,o,o,o,o,B.eT,o)),B.cg,A.dy(B.SJ,o,new A.a1h(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,o,o,o,o,o,B.eT,o)),B.cg,A.dy(B.SH,o,new A.a1i(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,B.mN,o,o,o,o,B.eT,o)),B.NS],t.p),B.t,B.aw,B.q):B.mC,B.dZ,o,o,o,o,o,1/0),q,o)
+r=A.ir(r,o,A.bI(o,n.b>=590?A.c1(A.a([A.bo("< \ubb38\uc81c \uc218 : "+B.f.i(20)+" \uac1c >",o,o,o,B.wc,o,o),B.bj,A.dy(B.SQ,o,new A.a1g(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,o,o,o,o,o,B.eT,o)),B.cg,A.dy(B.SJ,o,new A.a1h(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,o,o,o,o,o,B.eT,o)),B.cg,A.dy(B.SH,o,new A.a1i(b,s),A.k4(o,o,o,o,o,o,o,o,o,o,o,B.fO,B.mN,o,o,o,o,B.eT,o)),B.NS],t.p),B.t,B.aw,B.q):B.mC,B.dZ,o,o,o,o,o,1/0),q,o)
 return new A.tI(r,new A.a1j(),o)}catch(p){r=A.ir(A.vB(o,B.lD),o,A.bI(o,A.eB(A.dy(B.hQ,o,new A.a1k(b),o),o,o),B.hF,o,o,o,o,o,o),o,o)
 return r}}}
 A.a1j.prototype={
@@ -69644,7 +69644,7 @@ $S:0}
 A.IC.prototype={
 H(a,b){return B.Mk}}
 A.xc.prototype={
-a9(){return new A.OM(new A.b2(null,t.Ym),new A.oL(B.cT,$.b_()),A.aoH(),[],30,30,null,null,B.k)}}
+a9(){return new A.OM(new A.b2(null,t.Ym),new A.oL(B.cT,$.b_()),A.aoH(),[],20,20,null,null,B.k)}}
 A.OM.prototype={
 ar(){var s,r,q,p,o,n,m,l,k,j=this,i="_tickerTemp"
 j.aQ()
